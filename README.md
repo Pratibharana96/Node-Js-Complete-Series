@@ -2,52 +2,52 @@ In this Project I am Learning and Practising Node js where I have covered points
 1.Requirement/Installation (packages): node js | Nodemon | Mongoose |Mongodb Compass|Postman For testing API's | Mysql or phpmyadmin for testing | 
 2.Covered Points are
 ​
- Make basic server in node js
- What is the package.json file and use in node js
- Make Simple API in node js
- Input from command line 
-​ Show file List with file system
-​ Curd with file system
-​ Asynchronous Node js 
- ​Handle Asynchronous Data in Node js 
-​ How Node js Works
-​ Express js Introduction
-​ Routing with express js
-​ Render html in node js 
-​ Make HTML pages in node js 
-​ Remove file extension  
-​ Template Engine ejs
-​ Dynamic page in node js 
-​ Middleware node js 
-​ Route level middleware 
- ​ Install Mongodb for node 
- ​ Basics of MongoDB
- ​ CURD operation with MongoDB
- ​ Connect Mongodb with node 
- ​ Read data from MongoDB to node js
- ​ Insert data from MongoDB to node js
- ​ Update data from MongoDB to node js
- ​ Read data from MongoDB to node js
- ​ GET API with MongoDB and  node js
- ​ POST API method  with node js and MongoDB
- PUT API in node js and mongo DB
- DELETE API in node js and mongo DB
- Node js mongoose 
- CRUD operations with node js and mongoose
- POST API with node js and mongoose
- GET, DELETE AND PUT APIs with node js and mongoose
- Search API with node js and mongoose
- CRUD operations with node js and mongoose
- OS module node js 
- CRUD operations in node js 
- Events and event emitter in node js
- REPL in node js 
- Node js with MySQL connection 
- POST API with node and MySQL
- PUT API with node js and MySQL
- DELETE API with node js and MySQL
- Node js vs PHP
- From ANil sir Videos
+ - [ ] Make basic server in node js
+ - [ ] What is the package.json file and use in node js
+ - [ ] Make Simple API in node js
+ - [ ] Input from command line 
+ - [ ]​ Show file List with file system
+ - [ ]​ Curd with file system
+ - [ ]​ Asynchronous Node js 
+ - [ ] ​Handle Asynchronous Data in Node js 
+ - [ ]​ How Node js Works
+ - [ ]​ Express js Introduction
+ - [ ]​ Routing with express js
+ - [ ]​ Render html in node js 
+ - [ ]​ Make HTML pages in node js 
+ - [ ]​ Remove file extension  
+ - [ ]​ Template Engine ejs
+ - [ ]​ Dynamic page in node js 
+ - [ ]​ Middleware node js 
+ - [ ]​ Route level middleware 
+ - [ ] ​ Install Mongodb for node 
+ - [ ] ​ Basics of MongoDB
+ - [ ] ​ CURD operation with MongoDB
+ - [ ] ​ Connect Mongodb with node 
+ - [ ] ​ Read data from MongoDB to node js
+ - [ ] ​ Insert data from MongoDB to node js
+ - [ ] ​ Update data from MongoDB to node js
+ - [ ] ​ Read data from MongoDB to node js
+ - [ ] ​ GET API with MongoDB and  node js
+ - [ ] ​ POST API method  with node js and MongoDB
+ - [ ] PUT API in node js and mongo DB
+ - [ ] DELETE API in node js and mongo DB
+ - [ ] Node js mongoose 
+ - [ ] CRUD operations with node js and mongoose
+ - [ ] POST API with node js and mongoose
+ - [ ] GET, DELETE AND PUT APIs with node js and mongoose
+ - [ ] Search API with node js and mongoose
+ - [ ] CRUD operations with node js and mongoose
+ - [ ] OS module node js 
+ - [ ] CRUD operations in node js 
+ - [ ] Events and event emitter in node js
+ - [ ] REPL in node js 
+ - [ ] Node js with MySQL connection 
+ - [ ] POST API with node and MySQL
+ - [ ] PUT API with node js and MySQL
+ - [ ] DELETE API with node js and MySQL
+ - [ ] Node js vs PHP
+ - [ ] From ANil sir Videos
 1. Creating a Server in Node js For API:
 
 Creating .json file
@@ -213,15 +213,15 @@ waitingData.then((data)=>{
     console.log(a+data);
 })
 
-Interview Questions:
-Asynchronous/synchronous 
-Buffer:
-How Node js Works
-Call Stack:
-Node API:
-CallBack Queue:
-EXample:
-Interview Questions:
+- [ ] Interview Questions:
+- [ ] Asynchronous/synchronous 
+- [ ] Buffer:
+- [ ] How Node js Works
+- [ ] Call Stack:
+- [ ] Node API:
+- [ ] CallBack Queue:
+- [ ] EXample:
+- [ ] Interview Questions:
 
 1. First a function executes 
 2. Register on call stack
@@ -865,34 +865,34 @@ Model :uses the schemas to connect MongoDB and nodes
 3. Search with multiple field
 4. Test api
 5. 
-Upload File in Node JS
-
-Install Multer npm package
-Make Router for upload file
-Write Code for upload file
-Interview Question
-
-Os Module In Node JS
-What is Os Modules
-
-Import functions of OS module
-
-Interview Question
-
-Event and Event Emitter in Node Js
- 
-What is event and event emitter 
-Event is when any activity is perform we call it asa event and the event is emitting that is event emitter
-Make an event and call it
-Interview Question
-
-
-REPL
-READ -EVAL - Print  Loop
-
-What is REPL
-Example of REPL
-Interview Question//
+- [ ]Upload File in Node JS
+- [ ]
+- [ ]Install Multer npm package
+- [ ]Make Router for upload file
+- [ ]Write Code for upload file
+- [ ]Interview Question
+- [ ]
+- [ ]Os Module In Node JS
+- [ ]What is Os Modules
+- [ ]
+- [ ]Import functions of OS module
+- [ ]
+- [ ]Interview Question
+- [ ]
+- [ ]Event and Event Emitter in Node Js
+- [ ] 
+- [ ]What is event and event emitter 
+- [ ]Event is when any activity is perform we call it asa event and the event is emitting that is event emitter
+- [ ]Make an event and call it
+- [ ]Interview Question
+- [ ]
+- [ ]
+- [ ]REPL
+- [ ]READ -EVAL - Print  Loop
+- [ ]
+- [ ]What is REPL
+- [ ]Example of REPL
+- [ ]Interview Question//
 
 NPM MYsql Integration//
 1. Mysql npm package install
