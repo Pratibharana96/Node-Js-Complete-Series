@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Page</title>
+</head>
+<body>
+  <!-- Calling the common header file with - which is to tell it's normal Html File -->
+    <%- include('common/header'); %>
+    <h1>Profile Page <%=  user.name %></h1>
+    <h1>Profile Page <%=  user.gender %></h1>
+    <h1>Profile Page <%=  user.email %></h1>
+    <h1>Profile Page <%=  user.age %></h1>
+    <ul>
+      <h2>Array Unordered List </h2>
+      <% user.skills.forEach((item)=>{ %>
+         <li><%= item %></li>
+      <% }) %>
+    </ul>
+</body>
+<picture>
+  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
+  <source media="(min-width:465px)" srcset="img_white_flower.jpg">
+  <img src="https://images.pexels.com/photos/931177/pexels-photo-931177.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Floweddrs" style="width:auto;">
+</picture>
+
+</body>
+</html>

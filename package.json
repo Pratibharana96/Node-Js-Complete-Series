@@ -1,0 +1,32 @@
+{
+  "name": "node-projects",
+  "version": "1.0.0",
+  "description": "Node Js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pratibharana96"
+  },
+  "keywords": [
+    "pratibha",
+    "Node",
+    "js",
+    "Tutorial"
+  ],
+  "author": "Pratibha Rana",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.5.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "simple-node-logger": "^21.8.12"
+  }
+}
